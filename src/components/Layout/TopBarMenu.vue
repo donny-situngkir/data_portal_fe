@@ -4,9 +4,6 @@
       <v-app-bar-title>Data Portal</v-app-bar-title>
     </v-app-bar>
     <SidebarVue/>
-    <v-main>
-      <router-view/>
-    </v-main>
   </v-layout>
 </template>
 
